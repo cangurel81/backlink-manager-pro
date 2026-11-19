@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.log
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Düzenleyici / işletim sistemi
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Kimlik bilgisi / lisans anahtarı (asla commit etme)
+license_config.ini
+*.key
