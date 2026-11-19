@@ -4,9 +4,6 @@ Türkçe arayüzlü, masaüstü tabanlı bir backlink ve içerik yönetim aracı
 spintax şablonlarından makale üretir, görsel ekler ve WordPress REST API üzerinden toplu yayın yapar.
 Yedekleme/geri yükleme ve yerel yardım ekranı içerir.
 
-> **Bu sürüm açık kaynaqtır.** Lisans doğrulama kodu kaldırılmıştır; uygulama çevrimdışı ve ücretsiz çalışır.
-> WebAdHere markası ve destek bağlantıları korunmuştur.
-
 ---
 
 ## Özellikler
@@ -61,5 +58,4 @@ Destek ve marka: [WebAdHere](https://webadhere.com) · info@webadhere.com
 ## English summary
 
 Desktop tool for managing backlinks and publishing spintax-generated articles to WordPress sites
-through the REST API. This is the open-source build: license validation has been removed, all data
-files ship empty, and no credentials are included. GPL-3.0.
+through the REST API. All data files ship empty and no credentials are included. GPL-3.0.
